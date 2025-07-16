@@ -1,5 +1,5 @@
 ## Hi there 👋
--🔭 I’m currently working on E-commerce project
- 🌱 I’m currently learning React & JS
+-🔭 Currently working on E-commerce project &
+ 🌱  learning React & JS
 
 
